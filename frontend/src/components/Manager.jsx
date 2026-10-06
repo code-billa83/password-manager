@@ -17,7 +17,7 @@ const Manager = () => {
     const [visiblePasswords, setVisiblePasswords] = useState({});
 
     // URL configuration for secure Express Backend API
-    const BACKEND_URL = "https://pass-backend-hnui.onrender.com";
+    const BACKEND_URL = "https://password-manager-qhfx.onrender.com";
 
     // Security layer: Implementing anti-inspect tools and synchronization on load
     useEffect(() => {
